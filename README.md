@@ -34,6 +34,4 @@
 
 界面截图
 以下是工具的界面示例：
-<img src="img/1.png" alt="自定义大小示例" width="600">
-<img src="img/2.png" alt="自定义大小示例" width="600">
-<img src="img/3.png" alt="自定义大小示例" width="600">
+<img src="img/1.png" alt="界面截图1" width="600"> <img src="img/2.png" alt="界面截图2" width="600"> <img src="img/3.png" alt="界面截图3" width="600">
