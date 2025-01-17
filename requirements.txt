@@ -1,6 +1,4 @@
-#tkinter
 tkinterdnd2
 rawpy
 imageio
 moviepy
-#platform
