@@ -26,13 +26,14 @@
    git clone https://github.com/your-repository-url.git
    ```
    
-3.安装依赖
+3.**安装依赖**
 确保已安装 Python 3.x，然后运行以下命令安装项目依赖：
     ```
     pip install -r requirements.txt
     ```
    
-4.运行以下命令启动 GUI 界面：
+4.**运行**
+运行以下命令启动 GUI 界面：
     ```
     python gui_converter.py
     ```
