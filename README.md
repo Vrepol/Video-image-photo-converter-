@@ -27,18 +27,18 @@
    ```
    
 3.**安装依赖**
-确保已安装 Python 3.x，然后运行以下命令安装项目依赖：
+  确保已安装 Python 3.x，然后运行以下命令安装项目依赖：
     ```
     pip install -r requirements.txt
     ```
    
 4.**运行**
-运行以下命令启动 GUI 界面：
+  运行以下命令启动 GUI 界面：
     ```
     python gui_converter.py
     ```
 
-界面截图
+**界面截图**
 以下是工具的界面示例：
 
 <img src="img/1.png" alt="界面截图1" width="600"> <img src="img/2.png" alt="界面截图2" width="600"> <img src="img/3.png" alt="界面截图3" width="600">
