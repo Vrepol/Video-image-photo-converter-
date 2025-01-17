@@ -23,7 +23,7 @@
 2. **克隆仓库**  
    使用以下命令将仓库克隆到本地：
    ```bash
-   git clone https://github.com/your-repository-url.git
+   https://github.com/Vrepol/Video-image-photo-converter-.git
    ```
    
 3.**安装依赖**
