@@ -24,13 +24,16 @@
    使用以下命令将仓库克隆到本地：
    ```bash
    git clone https://github.com/your-repository-url.git
+   ```
 3.安装依赖
 确保已安装 Python 3.x，然后运行以下命令安装项目依赖：
     ```bash
     pip install -r requirements.txt
+    ```
 4.运行以下命令启动 GUI 界面：
     ```bash
     python gui_converter.py
+    ```
 
 界面截图
 以下是工具的界面示例：
